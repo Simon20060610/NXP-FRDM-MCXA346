@@ -1,0 +1,11 @@
+build/
+Debug/
+Release/
+rtthread.axf
+rtthread.map
+*.o
+*.d
+*.uvguix.*
+*.uvoptx
+*.uvprojx
+packages/
